@@ -1,7 +1,7 @@
 # Customer-Segmentation-Analysis-
 
 ## Case study: 
-Unsupervised Learning, Welcome to the case study on Unsupervised Learning. We will be using a company's Customer Data for this case study.
+Unsupervised Learning, Welcome to the case study on Unsupervised Learning. We will be using a company's Customer Data for this case study. Working with exploratory data analysis tools, clustering algorithms, and power bi as the visualisation tool.
 
 ## Problem Statement:
 
