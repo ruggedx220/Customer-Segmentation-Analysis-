@@ -4,6 +4,7 @@ Case study: Unsupervised Learning
 Welcome to the case study on Unsupervised Learning. We will be using a company's Customer Data for this case study.
 
 Problem Statement:
+
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
@@ -13,7 +14,9 @@ Objective:
 Need to perform clustering to summarize customer segments.
 
 About the data:
+
 Data is of various customers of a bank with their credit limit, the total number of credit cards the customer has, and different channels through which customer has contacted the bank for any queries, different channels include visiting the bank, online and through a call centre.
+
 
 People:
 
@@ -81,7 +84,8 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 
-RFM Clustering Analysis Results:
+## RFM Clustering Analysis Results:
+
 -Cluster 0: This cluster is characterized by moderate recency. These customers still spend so much more and purchase more frequently than clusters 2 and 3. Let’s call them loyal customers.
 
 -Cluster 1: This cluster is characterized by high recency and relatively moderate frequency and low monetary values. So these are recent customers who can potentially become long-term customers.
