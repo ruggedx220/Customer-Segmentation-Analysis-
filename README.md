@@ -20,6 +20,7 @@ Data is of various customers of a bank with their credit limit, the total number
 
 People:
 
+
 ID: Customer's unique identifier
 
 Year_Birth: Customer's birth year
@@ -43,6 +44,7 @@ Complain: 1 if the customer complained in the last 2 years, 0 otherwise
 
 Products:
 
+
 MntWines: Amount spent on wine in last 2 years
 
 MntFruits: Amount spent on fruits in last 2 years
@@ -57,6 +59,7 @@ MntGoldProds: Amount spent on gold in last 2 years
 
 
 Promotion:
+
 
 NumDealsPurchases: Number of purchases made with a discount
 
@@ -74,6 +77,7 @@ Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
 
 
 Place:
+
 
 NumWebPurchases: Number of purchases made through the company’s website
 
@@ -102,6 +106,15 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 -Cluster 1 - High Income Customers: this cluster represents customers with the highest income, they have fewer kids, they purchase from the store more often and also purchase more from catalogue and therefore they have less number of web visits
 
 -Cluster 2 - medium income Customers: these customers visit the website the most, hence they make the most web purchases and also have the highest number of purchases with discounts.
+
+
+## Customer Purchasing Analysis Results:
+
+Cluster 0 - Low Income Customers: this cluster represents customers with the higher number of kids, lowest income earners, they spend the least on the items, they are the youngest customer group
+
+Cluster 1 - medioum Income Customers: this cluster represents customers with the moderately high income, they have fewer kids, they are the oldest customer group and they purchase more items compared to cluster 0
+
+Cluster 2 - High income Customers: they have the least number of kids, they spend the most on goods purchases.
 
 
 ## Power BI Visualization:
