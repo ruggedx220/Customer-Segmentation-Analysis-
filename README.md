@@ -95,6 +95,15 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 -Cluster 3: Customers in this cluster tend to spend less. They don’t buy often, and haven’t made a purchase recently either. These are likely inactive or at-risk customers.
 
 
+## Customer Interaction Analysis Results:
+
+-Cluster 0 - Low Income Customers: this cluster represents customers with the higher number of kids, lowest income earners, they scarcely purchase by catalogue nor by the store, they visit the store more but have the lowest number of purchases from the website
+
+-Cluster 1 - High Income Customers: this cluster represents customers with the highest income, they have fewer kids, they purchase from the store more often and also purchase more from catalogue and therefore they have less number of web visits
+
+-Cluster 2 - medium income Customers: these customers visit the website the most, hence they make the most web purchases and also have the highest number of purchases with discounts.
+
+
 ## Power BI Visualization:
 ![Header](https://github.com/ruggedx220/Customer-Segmentation-Analysis-/blob/main/Screenshot%202024-05-07%20095555.png) 
 
