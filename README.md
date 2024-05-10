@@ -79,5 +79,17 @@ NumStorePurchases: Number of purchases made directly in stores
 
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
+
 Analysis Results:
+-Cluster 0: This cluster is characterized by moderate recency. These customers still spend so much more and purchase more frequently than clusters 2 and 3. Let’s call them loyal customers.
+
+-Cluster 1: This cluster is characterized by high recency and relatively moderate frequency and low monetary values. So these are recent customers who can potentially become long-term customers.
+
+-Cluster 2: Of all the four clusters, this cluster has the highest recency, frequency, and monetary values. Let’s call the customers in this cluster champions (or power shoppers).
+
+-Cluster 3: Customers in this cluster tend to spend less. They don’t buy often, and haven’t made a purchase recently either. These are likely inactive or at-risk customers.
+
+
+## Power BI Visualization:
+![Header](https://github.com/ruggedx220/Customer-Segmentation-Analysis-/blob/main/Screenshot%202024-05-07%20095555.png) 
 
