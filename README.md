@@ -9,6 +9,7 @@ Customer Personality Analysis is a detailed analysis of a company’s ideal cust
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
 Objective:
+
 Need to perform clustering to summarize customer segments.
 
 About the data:
@@ -80,7 +81,7 @@ NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 
-Analysis Results:
+RFM Clustering Analysis Results:
 -Cluster 0: This cluster is characterized by moderate recency. These customers still spend so much more and purchase more frequently than clusters 2 and 3. Let’s call them loyal customers.
 
 -Cluster 1: This cluster is characterized by high recency and relatively moderate frequency and low monetary values. So these are recent customers who can potentially become long-term customers.
